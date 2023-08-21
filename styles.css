@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+.formbox{
+    border: 2px solid white;
+    margin: auto;
+    padding: 10px 10px;
+    width: 500px;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+}
+
+.info{
+    padding: 20px;
+    margin: 20px;
+}
+#birthdate{
+    margin-left: 35px;
+}
+#Email{
+    margin-left: 20px;
+}
+#male,#female{
+    margin-left: 30px;
+}
+#submit{
+    margin-left: 95px;
+}
